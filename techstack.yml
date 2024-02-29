@@ -2,7 +2,7 @@ repo_name: ramzimalhas/Cloud-porter
 report_id: 596b2c89f3f3f77dc46f1a70e7cc5542
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-23T06:58:10+00:00'
+timestamp: '2024-02-29T19:34:24+00:00'
 requested_by: jusrhee
 provider: github
 branch: master
@@ -341,7 +341,7 @@ tools:
   last_updated_by: Stefan McShane
   last_updated_on: 2022-12-15 17:17:42.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.2.1
   license: MIT
@@ -369,7 +369,7 @@ tools:
   last_updated_by: Stefan McShane
   last_updated_on: 2022-12-15 16:52:28.000000000 Z
 - name: Sentry
-  description: 'See performance issues, fix errors faster, and optimize code health. '
+  description: See performance issues, fix errors faster, and optimize code health.
   website_url: https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile
   open_source: true
   hosted_saas: true
@@ -1197,8 +1197,8 @@ tools:
   last_updated_by: Stefan McShane
   last_updated_on: 2022-12-15 16:52:28.000000000 Z
 - name: go-cleanhttp
-  description: 'Cleanhttp Functions for accessing "clean" Go http.Client values The
-    Go standard library contains a default called '
+  description: Cleanhttp Functions for accessing "clean" Go http.Client values The
+    Go standard library contains a default called
   package_url: https://pkg.go.dev/github.com/hashicorp/go-cleanhttp
   version: 0.5.1
   license: MPL-2.0
