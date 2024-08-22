@@ -64,7 +64,7 @@
     "traverse": "^0.6.7",
     "uuid": "^9.0.0",
     "valtio": "^1.2.4",
-    "zod": "^3.20.2"
+    "zod": "^3.23.8"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
