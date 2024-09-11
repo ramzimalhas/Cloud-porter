@@ -20,7 +20,7 @@ RUN go build -ldflags '-w -s' -tags ee -a -o ./bin/worker-pool ./workers
 
 # Runtime environment
 # ----------------------
-FROM alpine:3.16
+FROM alpine:3.19.4
 WORKDIR /app
 
 RUN apk update && apk add curl
